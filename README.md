@@ -1,7 +1,7 @@
 # Data_Analysis_with_Python
 
-<p align="center">
-  <img width="300" src="https://images.youracclaim.com/size/340x340/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png">
+<p>
+  <img width="300" align="right" src="https://images.youracclaim.com/size/340x340/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png">
 </p>
 
 This badge earner has the core skills in Data Analysis using Python. They can readily clean, visualize and summarize data using Pandas. Using Scikit-learn, the earner can develop Data Pipelines, construct Machine learning models for Regression and evaluate these models.
